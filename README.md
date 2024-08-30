@@ -27,6 +27,7 @@ Run the script as administrator:
 Check firewall settings:
 
 Make sure your firewall isn't blocking network traffic for the script. You may need to create a rule to allow the script to receive and send network packets.
+
 Verify network interface:
 
 Ensure that the network interface you specified in the interface variable is correct and active. You can use the ipconfig /all command in the command prompt to check your network interfaces.
