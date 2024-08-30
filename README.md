@@ -19,7 +19,7 @@ This Python script is a basic network sniffer that captures and displays network
 Feel free to contribute to the project by forking the repository and submitting pull requests.
 
 **Errors:**
-The error message in the image indicates that your Python script is attempting to access a network socket in a way that is not permitted by the operating system. 
+There can be a permission error message that indicates your Python script is attempting to access a network socket in a way that is not permitted by the operating system. 
 To resolve this, you can try the following:
 
 Run the script as administrator:
